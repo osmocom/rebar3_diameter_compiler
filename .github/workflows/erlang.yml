@@ -1,6 +1,6 @@
 on:
   push:
-    branches: [main]
+    branches: [main, testing]
     tags: ["*"]
   pull_request:
     branches: ["*"]
